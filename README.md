@@ -1,5 +1,5 @@
 
-### Hola! <img src="https://media1.tenor.com/images/f88ee476d2f653b9cbc5a7b95acbd265/tenor.gif?itemid=11366012" width="24px">
+### Hola!
 I am a self taught web developer from india. From very early on in my life, I started to fall in love with technology and Gadgets . This helped me develop a very good technological mindset and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠
  <br/>
 
