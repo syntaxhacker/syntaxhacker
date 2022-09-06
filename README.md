@@ -1,15 +1,13 @@
 
-### Hello Stranger/Stalker 
- A Self taught developer from India. 
- <br/>
- Loves Art, Anime, Tech, Space.
+#### Hello Stranger/Stalker 👋🏻
+ I'm A Self taught developer from India Who Loves Art, Anime, Tech, Space.
 
- 
 ## Interests
 - **Competitive Programming**
 	- C++ ❤
 - **Web Development**
 - **GANS**
+- *Procastinating* 
 
 ## Non Interests
 - Talkin about Girls 
