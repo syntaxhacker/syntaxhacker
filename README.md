@@ -9,10 +9,6 @@
 - **GANS**
 - *Procastinating* 
 
-## Non Interests
-- Talkin about Girls 
-- Religion
-
 
 <br/>
   
