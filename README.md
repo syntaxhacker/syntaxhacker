@@ -1,25 +1,8 @@
+# 👋 Hi, I’m Rohit Jogi
 
-#### Hello Stranger/Stalker 👋🏻
- I'm A Self taught developer from India Who Loves Art, Anime, Tech, Space.
+Relentless builder, tech optimist, and team catalyst ,   
+AI explorer, mentor, and lifelong learner.
 
-## Interests
-- **Competitive Programming**
-	- C++ ❤
-- **Web Development**
-- **GANS**
-- *Procastinating* 
+> “Lead with empathy. Build with passion. Never stop learning.”
 
-
-<br/>
-  
-
-
-<p align="center">
- <a href="https://www.linkedin.com/in/rohitjogi/" target="blank">
-  <img align="center" alt="LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
- </a>
-  <br/>
-  <br/>
-</p>
-
-
+[Portfolio](https://portfolio-final-pi-one.vercel.app/) • [Resume](https://portfolio-final-pi-one.vercel.app/rohit_jogi_portfolio_2025.pdf) • [LinkedIn](https://www.linkedin.com/in/rohitjogi/)
