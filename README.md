@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Rohit Jogi
+Hi, I’m Rohit
 
 Relentless builder, tech optimist, and team catalyst ,   
 AI explorer, mentor, and lifelong learner.
